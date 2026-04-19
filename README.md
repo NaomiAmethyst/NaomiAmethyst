@@ -17,9 +17,13 @@ for people and things.
 - 🌐 [amethyst.cv](https://amethyst.cv) · [amethyst.name](https://amethyst.name)
 - ✨ i run [as53546](https://bgp.he.net/AS53546) out of my house, as one does
 
+### ❤️ what i care about
+
+designs first · pki & crypto · grammars & parsers · domains & types · semantic html & beautiful css 
+
 ### 🛠️ what i like to play with
 
-kubernetes ([the hard way, on bare metal](https://github.com/TableflippersAnonymous/k8s-image)) · bgp & weird networking · java, c++, ruby · designs first · pki & crypto · grammars & parsers · domains & types · semantic html & beautiful css · cassandra · postgres · ceph & lto · linux · anything that involves racking, stacking, or soldering
+kubernetes ([the hard way, on bare metal](https://github.com/TableflippersAnonymous/k8s-image)) · bgp & weird networking · distributed systems & consensus · java, c++, ruby · cassandra · postgres · ceph & lto · linux · anything that involves racking, stacking, or soldering
 
 ### 🧪 things i've built
 
