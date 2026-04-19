@@ -19,7 +19,7 @@ for people and things.
 
 ### 🛠️ what i like to play with
 
-kubernetes ([the hard way, on bare metal](https://github.com/TableflippersAnonymous/k8s-image)) · ceph · bgp & weird networking · linux · java, c++, go · cassandra · postgres · pki & crypto · grammars & parsers · anything that involves racking, stacking, or soldering
+kubernetes ([the hard way, on bare metal](https://github.com/TableflippersAnonymous/k8s-image)) · bgp & weird networking · java, c++, ruby · designs first · pki & crypto · grammars & parsers · domains & types · semantic html & beautiful css · cassandra · postgres · ceph & lto · linux · anything that involves racking, stacking, or soldering
 
 ### 🧪 things i've built
 
