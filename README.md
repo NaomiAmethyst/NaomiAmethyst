@@ -47,6 +47,6 @@ d&d, singing, home recording, 3d printing props, fixing things at the component 
 
 ### 📬 reach me
 
-i don't really use github for conversation — find me on the [bluesky](https://bsky.app/profile/naomi.amethyst.name), [fediverse](https://fedi.amethyst.name/@naomi), or [matrix](https://matrix.to/#/@naomi:amethyst.name).
+i don't really use github for conversation — find me on [bluesky](https://bsky.app/profile/naomi.amethyst.name), the [fediverse](https://fedi.amethyst.name/@naomi), or [matrix](https://matrix.to/#/@naomi:amethyst.name).
 
 ... or, y'know, [email me](mailto:naomi@amethyst.name).
