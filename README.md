@@ -12,14 +12,15 @@ for people and things.
 
 ### 🔮 about
 
-- 🔧 site reliability architect by day, homelab gremlin by night
+- 🔧 elder tech witch by day
+- 🕯️ keeper of the deep uptime magicks by night
 - 📍 raleigh, nc · she/her
 - 🌐 [amethyst.cv](https://amethyst.cv) · [amethyst.name](https://amethyst.name)
 - ✨ i run [as53546](https://bgp.he.net/AS53546) out of my house, as one does
 
 ### ❤️ what i care about
 
-designs first · pki & crypto · grammars & parsers · domains & types · semantic html & beautiful css · understanding what "you are not expected to"
+designs first · pki & crypto · grammars & parsers · domains & types · semantic html & beautiful css
 
 ### 🛠️ what i like to play with
 
@@ -35,7 +36,7 @@ kubernetes ([the hard way, on bare metal](https://github.com/TableflippersAnonym
 
 ### 🌱 outside the terminal
 
-d&d, singing, home recording, 3d printing props, fixing things at the component level with a hot air station and too much patience, and hanging out with my partners and pets.
+d&d · singing · home recording · 3d printing props · fixing things at the component level with a hot air station and too much patience · hanging out with my partners and pets.
 
 ### 💭 things i believe
 
@@ -44,9 +45,10 @@ d&d, singing, home recording, 3d printing props, fixing things at the component 
 - autonomy matters; coercion and control don't stop being wrong because they're convenient
 - emotions are data, not noise
 - mistakes are for owning, not hiding. forgiveness is for people acting in good faith
+- "you are not expected to understand this" is a challenge, not a warning
 
 ### 📬 reach me
 
-i don't really use github for conversation — find me on [bluesky](https://bsky.app/profile/naomi.amethyst.name), the [fediverse](https://fedi.amethyst.name/@naomi), or [matrix](https://matrix.to/#/@naomi:amethyst.name).
+find me on [bluesky](https://bsky.app/profile/naomi.amethyst.name), the [fediverse](https://fedi.amethyst.name/@naomi), or [matrix](https://matrix.to/#/@naomi:amethyst.name).
 
 ... or, y'know, [email me](mailto:naomi@amethyst.name).
