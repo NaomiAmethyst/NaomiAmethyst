@@ -52,3 +52,7 @@ d&d · singing · home recording · 3d printing props · fixing things at the co
 find me on [bluesky](https://bsky.app/profile/naomi.amethyst.name), the [fediverse](https://fedi.amethyst.name/@naomi), or [matrix](https://matrix.to/#/@naomi:amethyst.name).
 
 ... or, y'know, [email me](mailto:naomi@amethyst.name).
+
+### ░▒▓ when i go deep
+
+pcie over rs232 · ip over dns · cgroups & task_struct · nops & rops · idts & gdts · unreal & long · tlbs & iommus · fault, fault, fault^M~.
