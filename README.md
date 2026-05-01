@@ -55,7 +55,7 @@ find me on [bluesky](https://bsky.app/profile/naomi.amethyst.name), the [fediver
 
 ### ░▒▓ when i go deep
 
-pcie over rs232 · ip over dns · cgroups & task_struct · nops & rops · idts & gdts · unreal & long · tlbs & iommus · fault, fault, fault^M^M\
+pcie over rs232 · ip over dns · superblocks & 0x00bab10c · cgroups & task_struct · nops & rops · idts & gdts · unreal & long · tlbs & iommus · unlikely(speculation) · fault, fault, fault^M^M\
 \
 ^M^M^M\
 \
